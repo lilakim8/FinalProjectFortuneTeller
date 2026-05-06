@@ -1,5 +1,5 @@
 ## Fortune Teller App
-# Authors: Lila Kim & Enzo Belluomini
+### Authors: Lila Kim & Enzo Belluomini
 
 This app allows the user to get a random fortune from a set list of fortunes. They can also choose to add or remove fortune from the list.
 

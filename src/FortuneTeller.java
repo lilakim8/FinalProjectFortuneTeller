@@ -38,4 +38,5 @@ public class FortuneTeller {
     public ArrayList<String> getAllFortunes() {
         return fortunes;
     }
+    //ADD FortuneTeller HANDLING
 }
